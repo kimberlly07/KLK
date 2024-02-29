@@ -5,5 +5,12 @@
 
 body {
     background-color: var(--cor-de-fundo);
-    color:aqua
+    color:rgb(179, 228, 101)
 }
+header{
+    display: flex;
+}
+
+   img{
+    width: 20%;
+   }
