@@ -1,0 +1,9 @@
+:root{
+    --cor-de-fundo:
+--cor-de-texto: #    
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    color:aqua
+}
