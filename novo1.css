@@ -7,11 +7,24 @@ body {
     background-color: var(--cor-de-fundo);
     color:rgb(179, 228, 101)
 }
-h1
+h1{
+    color: bisque(--cor-de-texto);
+
+
+
+}
 header{
     display: flex;
+    justify-content: space-around;
+   align-items: center; 
+
 }
 
-   img{
-    width: 20%;
-   }
+.logo{
+    width: 10%;
+}
+section{
+    display: flex;
+
+    
+}
