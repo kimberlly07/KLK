@@ -1,29 +1,29 @@
-:root{
-    --cor-de-fundo:
---cor-de-texto: #    
+:root {
+    --cor-de-fundo: rgb(179, 228, 101);
+    --cor-de-texto: #000000;
 }
 
 body {
     background-color: var(--cor-de-fundo);
-    color:rgb(179, 228, 101)
+    color: var(--cor-de-texto);
 }
-h1{
+
+h1 {
     color: bisque(--cor-de-texto);
-
-
-
 }
-header{
+
+header {
     display: flex;
     justify-content: space-around;
-   align-items: center; 
+    align-items: center;
 
 }
 
-.RE{
+.RE {
     width: 10%;
 }
-section{
+
+section {
     display: flex;
 
 
